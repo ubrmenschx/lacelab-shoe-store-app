@@ -1,21 +1,21 @@
-# 👟 LaceLab
+# LaceLab
 
 **LaceLab** is a beautifully designed Flutter-based shoe store app that offers users a modern and smooth shopping experience. It includes dynamic product listing, company-based filtering, real-time search, and a cart system ready for expansion.
 
 ---
 
-## 📱 Features
+## Features
 
-- 🏠 **Home Page** – Displays all available shoes.
-- 🔍 **Search Bar** – Quickly search shoes by title.
-- 🏷️ **Company Filters** – Filter shoes by brand (Nike, Puma, Rick Owens, etc.).
-- 🛒 **Cart Page** – View selected items (UI ready, logic expandable).
-- 📦 **Product Details** – Tap on any product to view details.
-- 🎨 **Clean UI** – Styled using Flutter’s Material design with dynamic chip filters.
+-  **Home Page** – Displays all available shoes.
+-  **Search Bar** – Quickly search shoes by title.
+-  **Company Filters** – Filter shoes by brand (Nike, Puma, Rick Owens, etc.).
+-  **Cart Page** – View selected items (UI ready, logic expandable).
+-  **Product Details** – Tap on any product to view details.
+-  **Clean UI** – Styled using Flutter’s Material design with dynamic chip filters.
 
 ---
 
-## 🧱 Project Structure
+## Project Structure
 
 ```lib/
 ├── global_variables.dart        # List of all products and constants
@@ -31,13 +31,13 @@
 
 ---
 
-## 📦 Download
+## Download
 
 [Download APK](https://github.com/tanmayyysachan/LaceLab/releases/download/v1.0/app-release.apk)
 
 ---
 
-## 👥 Demo
+## Demo
 
 [Watch Demo Video](https://github.com/tanmayyysachan/LaceLab/releases/download/v1.0/demo.mp4)
 
